@@ -1,0 +1,5 @@
+%YAML:1.0
+IMAGE_DIR : /media/kadn/DATA2/thunder/dataset/sequences/01/image_0
+POSE_FILE : /media/kadn/DATA2/thunder/dataset/poses/01.txt
+IMAGE_W : 1241
+IMAGE_H : 376

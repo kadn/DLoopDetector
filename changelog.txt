@@ -1,0 +1,4 @@
+0.3 demo_orb利用时间来阻止停留在原地时会输出loop的情况。但是demo_brief和 orb_online没有利用这个信息。
+0.2 只输出第一个loop，每隔一定时间输出第二次loop（20frames）
+0.1 所有的loop都被输出
+

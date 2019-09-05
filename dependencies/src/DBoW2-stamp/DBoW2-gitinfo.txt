@@ -1,0 +1,3 @@
+repository='http://github.com/dorian3d/DBoW2'
+module=''
+tag=''
